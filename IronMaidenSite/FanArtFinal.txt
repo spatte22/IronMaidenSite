@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en"> <!-- identifies this as an English language page -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <!-- defines utf-8 character set to avoid strange characters -->
+<title>Iron Maiden Fan Art</title> <!-- CHANGE THIS -->
+<link href="nmestylesheet.css" rel="stylesheet" type="text/css" /> <!-- link to your CSS page. Don't change the rel= or type= -->
+<meta name="description" content="This site displays a large conglomeration of both fan made and band-released media materials as an homage to the musicians themselves." /> <!-- no longer than 155 character description. This will appear in search engine results under link to your site. Don't change name= -->
+<meta name="keywords" content="Iron Maiden,iron maiden fan art,fan site,iron maiden artwork,iron maiden video game,iron maiden memes"> <!--keywords for search engines: lower case, seperated by commas, with no spaces inbetween. don't change name= -->
+<meta name="author" content="Sean Patterson" /> <!-- don't change name= -->
+</head>
+<body class="fanartbg">
+<div id="wrapper">
+<img src="../images/boseddiefireheaderhomepage4.jpg" alt="Book of Souls Eddie staring in front of firey background">
+<hr />
+<ul id="navigation">
+<li><a href="http://textomatic.org/3340/patterson/exhibit">Home</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmexmas.html">X-Mas</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmebeerandgames.html">Beer and Games</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmefanart.html" class="active">Fan Art</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmeironmaidens.html">Iron Maidens</a></li></ul>
+<hr />
+<div id="fanart">
+<h2>Fan Art</h2><p>As some of the most die-hard and dedicated people in the world, fans of the band enjoy creating <i>much</i> more than just Christmas cards. This page showcases just a few excellent examples of the vast treasure trove of fan-created material.</p>
+<div class="memerow"><img src="../images/amateureddie.jpg" alt="amateur drawing of eddie"></div>
+<div class="memerow"><img src="../images/eddieattackedforceone.jpg" alt="eddie attacking the Ed Force One plane"></div>
+<div class="memerow"><img src="../images/boseddiegrafiti.jpg" alt="grafiti artists paints eddie"></div>
+
+<div class="memerow2"><img src="../images/bravehearteddie.jpg" alt="eddie as braveheart"></div>
+<div class="memerow2"><img src="../images/cartoonmaiden.jpg" alt="the band as cartoon characters"></div>
+
+<div class="memerow2"><img src="../images/dontwalkeddie.jpg" alt="don't walk"></div>
+<div class="memerow2"><img src="../images/jokereddie.jpg" alt="eddie as the Joker"></div>
+
+<div class="memerow2"><img src="../images/eddiemaidenslut.jpg" alt="iron maidens girl eddie"></div>
+<div class="memerow2"><img src="../images/halfeddie.jpg" alt="two face band members with eddie"></div>
+
+<div class="memerow2"><img src="../images/mntrusheddie.jpg" alt="Mount Rushmore with eddie heads"></div>
+<div class="memerow2"><img src="../images/pharaoheddie.jpg" alt="pencil drawing of eddie as a pharaoh"></div>
+
+<div class="memerow2"><img src="../images/eddieolantern.jpg" alt="eddie face carved into jack o' lantern"></div><div class="memerow2"><img src="../images/boseddieolantern.jpg" alt="eddie face carved into jack o' lantern"></div>
+
+<img src="../images/trooperstormtrooper.jpg" alt="a Star Wars Stormtrooper impersonates eddie the trooper" class="center">
+</div> <!-- this closes fanart div -->
+
+<div id="memes">
+<h2>Memes</h2><p>The fan-created material does not stop at actual artwork. The creativity pervades meme creation as well! Enjoy the following few examples of witty minds from around the world.</p>
+<div class="memerow"><img src="../images/memeborn2minsaftermidnight.jpg" alt="He was born during a Iron Maiden's concert at 2 minutes to midnight"></div><div class="memerow"><img src="../images/memebraceyourselves.jpg"  alt="Brace yourselves, Iron maiden's gonna get you" class="centerpic"></div><div class="memerow"><img src="../images/memeterrorists.jpg" alt="What happens when terrorists try to highjack Ed Force One" class="rightpic"></div> 
+
+<div class="memerow"><img src="../images/memebriangetskilled.jpg" alt="Goes to Iron Maiden concert, gets killed by Eddie"></div><div class="memerow"><img src="../images/memebruceiscool.jpg" alt="Bruce Dickinson, singer, musician, songwriter, airline pilot, fencer, broadcaster, author, actor, marketing director, & certified badass" class="centerpic"></div><div class="memerow"><img src="../images/memedepartwithhaste.jpg" alt="Depart with haste for the hills! Depart with haste for the safety of your livelihoods!" class="rightpic"></div>
+
+<div class="memerow2"><img src="../images/memeoiyou.jpg" alt="oi you, listen to Iron Maiden"></div><div class="memerow2"><img src="../images/memeidontalways.jpg" alt="I don't always run to the hills... but when I do, it's for my life" class="rightpic"></div>
+
+<div class="memerow2"><img src="../images/memeiranmaiden.jpg" alt="iran maiden"></div><div class="memerow2"><img src="../images/mememaidengreatestever.jpg" alt="What if I told you Iron Maiden is the greatest band ever" class="rightpic"></div>
+
+<div class="memerow2"><img src="../images/memeironmaidenironmaiden.jpg" alt="Yo dawg, I heard you like Iron Maiden, so here's a song of Iron Maiden called Iron Maiden in the album Iron Maiden"></div><div class="memerow2"><img src="../images/memejesusmaiden.jpg" alt="Iron Maiden is my religion" class="rightpic"></div>
+
+<div class="memerow2"><img src="../images/mememaidenteacheshistory.jpg" alt="What if I told you that Iron Maiden can teach you history better than your school teachers" class="leftpic"></div><div class="memerow2"><img src="../images/memegodssent.jpg" alt="The Gods sent me to earth to make music. No we didn't" class="rightpic"></div>
+
+</div> <!-- this closes memes div -->
+<ul id="footer">
+<hr />
+<li><a href="http://ironmaiden.com" target="_blank">Iron Maiden Official Site</a></li><li><a href="http://www.ironmaidenbeer.com/" target="_blank">The Trooper Beer</a></li><li><a href="http://www.theironmaidens.com/" target="_blank">The Iron Maidens</a></li>
+<hr />
+</ul> <!-- this closes footer div -->
+</div> <!-- this closes the wrapper -->
+</body>
+</html>

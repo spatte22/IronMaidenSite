@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en"> <!-- identifies this as an English language page -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <!-- defines utf-8 character set to avoid strange characters -->
+<title>Iron Maidens</title> <!-- CHANGE THIS -->
+<link href="nmestylesheet.css" rel="stylesheet" type="text/css" /> <!-- link to your CSS page. Don't change the rel= or type= -->
+<meta name="description" content="This site displays a large conglomeration of both fan made and band-released media materials as an homage to the musicians themselves." /> <!-- no longer than 155 character description. This will appear in search engine results under link to your site. Don't change name= -->
+<meta name="keywords" content="Iron Maiden,iron maidens,fan site,iron maiden artwork,iron maiden fan art"> <!--keywords for search engines: lower case, seperated by commas, with no spaces inbetween. don't change name= -->
+<meta name="author" content="Sean Patterson" /> <!-- don't change name= -->
+</head>
+<body class="ironmaidensbg">
+<div id="wrapper">
+<img src="../images/boseddiefireheaderhomepage5.jpg" alt="Book of Souls Eddie staring in front of firey background">
+<hr />
+<ul id="navigation">
+<li><a href="http://textomatic.org/3340/patterson/exhibit">Home</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmememes.html">X-Mas</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmebeerandgames.html">Beer and Games</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmefanart.html">Fan Art</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmeironmaidens.html" class="active">Iron Maidens</a></li></ul><hr /><br /><br />
+<img src="../images/theironmaidens.jpg" alt="Iron Maidens" class="center">
+<br /><br />
+<div id="whoarethey">
+<h2>Who are they?</h2><p><iframe width="560" height="315" src="https://www.youtube.com/embed/PaLzqcXzTRI" frameborder="0" allowfullscreen class="leftpic"></iframe>"Formed in 2001, The Iron Maidens have quickly established themselves as one of southern California’s most popular tribute acts and are rapidly gaining international recognition. The band boasts beauty as well as excellent musicianship, lively stage presence, and a remarkable stage show with theatrical scenes interspersed throughout.</p>
+<p>First and foremost on the agenda of The Iron Maidens is talent. These women are highly trained professionals with diversified musical backgrounds ranging from orchestral and musical theater to blues and rock. The band and its members have been the recipients of many awards including best tribute band, and best in category (guitar, bass, drums, voice) at events such as The Rock City News Awards, The LA Music Awards, and The All Access Magazine Award Show to name a few. The line-up is Kirsten “Bruce Chickinson” Rosenberg on vocals, Linda “Nikki McBURRain” McDonald on drums, Courtney “Adriana Smith” Cox and Nikki “Davina Murray” Stringfield on guitars, and Wanda "Steph Harris" Ortiz on bass.</p>
+<p>The Iron Maidens cover Iron Maiden material from all eras of the band’s career, encompassing the band’s biggest hits as well as fan favorites. The stage show includes appearances by Maiden mascot Eddie, the grimreaper, the devil and more.<iframe width="560" height="315" src="https://www.youtube.com/embed/XebvpPtebaI" frameborder="0" allowfullscreen class="rightpic"></iframe></p>
+<p>The Iron Maidens have packed houses everywhere they have played."</p>
+<br /><br /><br /><br /><br /><i>From <a href="http://www.theironmaidens.com/band/bio.html">theironmaidens.com</a><br />Visit their website to find out more about the band and find their upcoming shows!</i>
+</div> <!-- this closes whoarethey div -->
+<ul id="footer">
+<hr />
+<li><a href="http://ironmaiden.com" target="_blank">Iron Maiden Official Site</a></li><li><a href="http://www.ironmaidenbeer.com/" target="_blank">The Trooper Beer</a></li><li><a href="http://www.theironmaidens.com/" target="_blank">The Iron Maidens</a></li>
+<hr />
+</ul> <!-- this closes footer div -->
+</div> <!-- this closes the wrapper -->
+</body>
+</html>

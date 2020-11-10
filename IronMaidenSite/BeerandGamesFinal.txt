@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en"> <!-- identifies this as an English language page -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <!-- defines utf-8 character set to avoid strange characters -->
+<title>Iron Maiden Beer and Games</title> <!-- CHANGE THIS -->
+<link href="nmestylesheet.css" rel="stylesheet" type="text/css" /> <!-- link to your CSS page. Don't change the rel= or type= -->
+<meta name="description" content="This page displays the amazing extra products that Iron Maiden produces, beer and video games." /> <!-- no longer than 155 character description. This will appear in search engine results under link to your site. Don't change name= -->
+<meta name="keywords" content="Iron Maiden,iron maiden beer,iron maiden video game,legacy of the beast,ed hunter,fan site"> <!--keywords for search engines: lower case, seperated by commas, with no spaces inbetween. don't change name= -->
+<meta name="author" content="Sean Patterson" /> <!-- don't change name= -->
+</head>
+<body class="beerandgamesbg">
+<div id="wrapper">
+<img src="../images/boseddiefireheaderhomepage3.jpg" alt="Book of Souls Eddie staring in front of firey background">
+<hr />
+<ul id="navigation">
+<li><a href="http://textomatic.org/3340/patterson/exhibit">Home</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmexmas.html">X-Mas</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmebeerandgames.html" class="active">Beer and Games</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmefanart.html">Fan Art</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmeironmaidens.html">Iron Maidens</a></li></ul>
+<hr />
+<p><img src="../images/trooperbeerparties.png" alt="Eddie Trooper pours from tap" class="center"></p>
+<div id="beer">
+<h2>Beer</h2>
+<img src="../images/beerandcigar.jpg" class="leftpic" alt="the Trooper beer on display with a cigar">
+<h3>THE STORY OF TROOPER</h3>
+<p>"Real ale fan and history aficionado Bruce Dickinson, Maiden's vocalist, played a major role in developing the unique flavour of the beer, entailing ongoing visits to Robinson’s brewery in Stockport.</p>
+<p>"I'm a lifelong fan of traditional English ale; I thought I'd died and gone to heaven when we were asked to create our own beer. I have to say that I was very nervous: Robinsons are the only people I have had to audition for in 30 years. Their magic has been to create the alchemical wedding of flavour and texture that is TROOPER. I love it."</p>
+ <h3>ABOUT THE BREWER</h3>
+<p>Combining an impressive heritage, stretching from 1838, with innovation, Robinsons is one the UK’s largest family brewers, with 340 pubs across the North West and Wales. Our pubs are an integral part of the Robinsons family and the way customers enjoy our ales.<img src="../images/Iron-Maiden-Robinsons-Trooper-Beer-Ultimate-Set-_1.jpg" class="rightpic" alt="Trooper Beer ultimate set"></p>
+<p>2013 is an exciting time for Robinsons as we proudly celebrate 175 years of brewing excellence and heritage. Our massive investment into the brewery brings 'cutting edge' technology. With our state of the art brew house kicking out some seriously tasty ales, and our 2013 limited edition ales already proving popular, our 175th anniversary promises to be a great year for quality handcrafted ales and our customers who drink them."</p><i>From <a href="http://www.ironmaidenbeer.com/about">ironmaidenbeer.com</a><br />Visit the website to buy and sell Iron Maiden beer!</i>
+</div> <!-- this closes beer div -->
+<br /><br /><p><img src="../images/Ironmaidenedhunter.jpg" alt="Iron Maiden Ed Hunter video game poster" class="center"></p>
+<div id="videogame1">
+<h2>Ed Hunter</h2>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/GFtFEHfkC4I" frameborder="0" allowfullscreen class="center"></iframe><h3>About Ed Hunter</h3></p>
+<p>"Ed Hunter Ed Hunter was Iron Maiden's first computer game and was released on the 17th of May 1999. It was produced in a deluxe 3 CD package. The 2CD double album features the soundtrack to the game itself whereas the third contains Iron Maiden's first computer game. The soundtrack was voted for by fans on the official Iron Maiden website.</p>
+<p>Ed Hunter Just as Iron Maiden were the first to release a promotional video, the first to have released a full length concert video and one of the first to have released their entire back catalogue of albums as enhanced CDs they are one of the first bands to have released a video game.</p>
+<p>Ed Hunter is a shoot 'em up game in the style of Time Crisis and Virtua Cop where you use your PC mouse to control the shooting. It has 8 levels ranging from the streets of London to the pyramids of Egypt and even into the future."</p><i>From <a href="http://maiden-world.com/edhunter.html">maiden-world.com</a><br />Visit maiden-world for system requirements for the game and other maiden info!</i>
+</div> <!-- this closes videogame1 div -->
+<p><img src="../images/Iron-Maiden-Legacy-of-the-Beast.jpg" alt="Iron Maiden Legacy of the Beast" class="center"></p>
+<div id="videogame2">
+<h2>Legacy of the Beast</h2><p>"Be Part of the Legacy!</p>
+<p>Iron Maiden: Legacy of The Beast – an epic action RPG set in the expansive Iron Maiden universe, available now on iOS and Android!</p>
+<p>Play as Eddie and gather your team to fight the forces of true evil through worlds based on the lore and music of Iron Maiden.</p>
+<p>Gameplay is enhanced with a powerful soundtrack using songs spanning the band’s entire career, including previously unheard live recordings of Iron Maiden classics adapted for the game by engineer Tony Newton under the close scrutiny of Steve Harris.</p>
+
+<p>Play the game -> <a href="http://hyperurl.co/9ore7h">http://hyperurl.co/9ore7h</a></p>
+
+<p>Sign up for our newsletter, and learn more! <a href="http://www.ironmaidenlegacy.com/">http://www.ironmaidenlegacy.com/</a>"</p><iframe width="560" height="315" src="https://www.youtube.com/embed/fryNRM5bqdo" frameborder="0" allowfullscreen class="center"></iframe><p></p><br /><i>Text from <a href="https://www.facebook.com/pg/IronMaidenLegacyoftheBeast/about/?ref=page_internal">Legacy of the Beast Facebook Page</a><br />Visit the page to see more awesome game footage and also a download link.</i>
+</div> <!-- this closes videogame2 div -->
+<ul id="footer">
+<hr />
+<li><a href="http://ironmaiden.com" target="_blank">Iron Maiden Official Site</a></li><li><a href="http://www.ironmaidenbeer.com/" target="_blank">The Trooper Beer</a></li><li><a href="http://www.theironmaidens.com/" target="_blank">The Iron Maidens</a></li>
+<hr />
+</ul> <!-- this closes footer div -->
+</div> <!-- this closes the wrapper -->
+</body>
+</html>

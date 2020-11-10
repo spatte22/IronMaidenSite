@@ -1,0 +1,181 @@
+body.homebg{
+	background-color: black;
+	background-image: url("images/background/backgroundkillertransparent.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right bottom;
+}
+body.xmasbg{
+	background-color: black;
+	background-image: url("images/background/backgroundeddiefaceclouds.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	height: auto;
+}
+body.beerandgamesbg{
+	background-color: black;
+	background-image: url("images/background/trooperbeer3.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center bottom;
+}
+body.fanartbg{
+	background-color: black;
+	background-image: url("images/background/backgroundplatinumeddie.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+}
+body.ironmaidensbg{
+	background-color: black;
+	background-image: url("images/background/backgroundeddieeatingiron.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center bottom;
+}
+#navigation{
+	list-style-type: none;
+	margin: 0;
+	text-align: center;
+	font-size: 25px;
+	padding-left: 0;    
+	height: auto;
+	margin-bottom: 5px;
+	padding: 10px 2% 10px 2%;
+	
+}
+#navigation li{
+	display: inline;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin: 30px;
+	padding: 1% 4% 1% 4%;
+	border-radius: 10px;
+}
+#navigation a:link, #navigation a:visited{
+	text-decoration: none;
+	color: #FE642E;
+	outline: 0;
+}
+#navigation a:hover{
+	text-decoration: none;
+	box-shadow: 0 0 25px 0 #A4A4A4 inset;
+}
+#navigation a.active{
+	text-decoration: none;
+	box-shadow: 0 0 25px 0 #A4A4A4 inset;
+}
+#wrapper{
+	width: 80%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+#flexcontainer{
+	display: flex;
+	
+}
+#whatisthissite{
+	color: #FE642E;
+	font-size: 26px;
+	padding: 2%;
+	margin-bottom: 2%;
+	height: auto;
+	box-shadow: 0px 0px 10px 5px #2E2E2E inset;
+}
+#myintrotoband{
+	color: #FE642E;
+	font-size: 26px;
+	padding: 2%;
+	margin-bottom: 2%;
+	height: auto;
+	width: 60%;
+	box-shadow: 0px 0px 10px 5px #2E2E2E inset;
+}
+#memes{
+	color: white;
+	height: auto;
+	padding: 2%;
+	box-shadow: 0px 0px 10px 5px #2E2E2E inset;
+	text-align: justify;
+}
+#memes::after{
+	content: '';
+	display: inline-block;
+	width: 100%
+}
+.memerow{
+	height:auto;
+	width: 28%;
+	display: inline-block;
+	vertical-align: top;
+	margin: 2% 2% 2% 2%;
+}
+.memerow2{
+	height:auto;
+	width: 43%;
+	display: inline-block;
+	vertical-align: top;
+	margin: 2% 2% 2% 2%;
+}
+#fanart{
+	padding: 2%;
+	margin-bottom: 2%;
+	height: auto;
+	box-shadow: 0px 0px 10px 5px #2E2E2E inset;
+}
+#christmascards{
+	padding: 2%;
+	margin-bottom: 2%;
+	height: auto;
+	box-shadow: 0px 0px 10px 5px #2E2E2E inset;
+}
+#beer{
+	color: white;
+	padding: 2%;
+	margin-bottom: 2%;
+	height: auto;
+	box-shadow: 0px 0px 10px 5px #2E2E2E inset;
+}
+#videogame1{
+	color: white;
+	padding: 2%;
+	margin-bottom: 2%;
+	height: auto;
+	box-shadow: 0px 0px 10px 5px #2E2E2E inset;
+}
+#videogame2{
+	color: white;
+	padding: 2%;
+	margin-bottom: 2%;
+	height: auto;
+	box-shadow: 0px 0px 10px 5px #2E2E2E inset;
+}
+.center{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.leftpic{
+	float: left;
+	margin-bottom: ;
+	margin-left: ;
+}
+.centerpic{
+	margin-bottom: ;
+	margin-left: 5%;
+	margin-right: 5%;
+	float: left;
+}
+.rightpic{
+	float: right;
+	margin-bottom: ;
+	margin-right: ;
+}
+img{
+	max-width: 100%;
+}
+h2{
+	color: white;
+}

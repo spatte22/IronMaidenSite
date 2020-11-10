@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en"> <!-- identifies this as an English language page -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <!-- defines utf-8 character set to avoid strange characters -->
+<title>Iron Maiden Exhibition</title> <!-- CHANGE THIS -->
+<link href="nmestylesheet.css" rel="stylesheet" type="text/css" /> <!-- link to your CSS page. Don't change the rel= or type= -->
+<meta name="description" content="This site displays a large conglomeration of both fan made and band-released media materials as an homage to the musicians themselves." /> <!-- no longer than 155 character description. This will appear in search engine results under link to your site. Don't change name= -->
+<meta name="keywords" content="Iron Maiden,fan site,iron maiden artwork,iron maiden video game,iron maiden fan art"> <!--keywords for search engines: lower case, seperated by commas, with no spaces inbetween. don't change name= -->
+<meta name="author" content="Sean Patterson" /> <!-- don't change name= -->
+</head>
+<body class="homebg">
+<div id="wrapper">
+<img src="../images/boseddiefireheaderhomepage1.jpg" alt="Book of Souls Eddie staring in front of firey background">
+<hr />
+<ul id="navigation">
+<li><a href="http://textomatic.org/3340/patterson/exhibit" class="active">Home</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmexmas.html">X-Mas</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmebeerandgames.html">Beer and Games</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmefanart.html">Fan Art</a></li>
+<li><a href="http://textomatic.org/3340/patterson/exhibit/nmeironmaidens.html">Iron Maidens</a></li></ul>
+<hr />
+<div id="whatisthissite">
+<p><h2>What is this site?</h2>This site is a homage to the famous heavy metal band Iron Maiden. It showcases a composition of the many extra features of the band aside from their music.</p>
+</div> <!-- this closes whatisthissite div -->
+<div id="myintrotoband">
+<p><h2>My Intro to the Band:</h2>Galloping through four decades, Iron Maiden continue to blaze the musical trail and build their brand of metal with both gallups and gimmicks. Their mascot, Eddie, has journeyed alongside the musicians and reflects the full force in which Maiden deliver their sound. Iron Maiden are a combination of sonic, visual, thematic, and adventurous elements which create the unmistakable and unprecedented experience. Throughout the different eras of metal history, Maiden have inspired both musicians and fans, thus creating their legacy.</p><p>My own inspiration began as an excited young man, craving and yearning to find more of that "crunchy electric guitar" and lively tempo. It all started with a burned copy of <i>The Best of the Beast.</i> However... the Best was not nearly enough. I needed more, I needed everything, I needed to experience the full journey. So I started from the self titled debut: Iron Maiden, and I spent the next year (or so) moving from album to album, maiden heaven. Not only was the music completely addicting - with the energy and creativity - but the artwork and lyrics were able to transport me around from ancient rulers to untameable lands. Iron Maiden are undoubtedly the most full fledged musical experience.</p>
+</div> <!-- this closes myintrotoband div -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t5jaRipA5_M" frameborder="0" allowfullscreen class="center"></iframe>
+<ul id="footer">
+<hr />
+<li><a href="http://ironmaiden.com" target="_blank">Iron Maiden Official Site</a></li><li><a href="http://www.ironmaidenbeer.com/" target="_blank">The Trooper Beer</a></li><li><a href="http://www.theironmaidens.com/" target="_blank">The Iron Maidens</a></li>
+<hr />
+</ul> <!-- this closes footer div -->
+</div> <!-- this closes the wrapper -->
+</body>
+</html>

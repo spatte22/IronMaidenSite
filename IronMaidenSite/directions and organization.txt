@@ -1,0 +1,75 @@
+Page 1 (Home page)
+	What is this site?
+This site is an homage to the famous heavy-metal band Iron Maiden. It showcases a composition of the many extra features of the band aside from the music they create.
+
+	My intro to band - Brief History
+Spanning four decades, Iron Maiden have blazed the musical trail and built their brand of metal with both gallups and gimmicks. Their mascot, Eddie, has journeyed alongside the musicians and reflects the full force in which Maiden deliver their sound. Iron Maiden are a combination of sonic, visual, and thematic and adventurous elements which create the unmistakable and unprecedented experience. Throughout the different eras of metal history, Maiden have inspired both musicians and fans, thus creating their legacy.
+
+	"musings about the band"
+My own inspiration began as an excited young man, craving and yearning to find more of that "crunchy electric guitar" and lively tempo. It all started with a burned copy of "The Best of the Beast." However... the Best was not nearly enough. I need more, I needed everything, I needed to experience the fully journey. So I started from the self titled debut: Iron Maiden, and I spent the next year (or so) moving from album to album, maiden heaven. Not only was the music completely addicting - with the energy and creativity - but the artwork and lyrics were able to transport me around from ancient rulers to untameable lands. Iron Maiden are undoubtedly the most full fledged musical experience.
+
+
+
+Page 2 (christmas cards and memes)
+CHRISTMAS CARDS:
+The band - and Eddie - are evidently big fans of the Christmas holiday. 
+
+
+
+Page 3 (Maiden's extra media like the video game and beer)
+Ed Hunter (1999)
+Youtube trailer of the video game code:
+
+Legacy of the Beast (
+Youtube trailer of the video game code: 
+
+
+Page 4 (fan artwork)
+
+
+Page 5 (iron maidens?)
+	
+
+
+
+
+
+
+
+
+
+Overall Site Requirements
+• At least five pages
+• A consistent and unified design aesthetic across all five pages that matches the feel and tone
+of your subject matter
+• Site wide navigation that is consistent and usable
+• A full (or very, very near) pass through the W3C validator for each page
+• Clean and readable source code
+• Usability optimization primarily in the form of smart use of header, title, and alt tags
+• Posted to textomatic.org in full
+
+
+
+Home Page:
+• Text should include an introduction to both the subject matter (biography, history,background info, etc.) and a short exploration/musing about your personal fandom or interest in the topic.
+
+
+
+Other 4 Pages:
+The other pages are largely up to you. As you find pieces for your exhibition, start to think of ways to categorize them for showing and these will become your other page topics. Some possibilities:
+
+• A page dedicated to memes about your subject
+• A page that gives links to other websites about your subject (perhaps with screenshots of home pages accompanying the links to give the page some visual interest)
+• A page on fan videos of your subject (this could branch into mashups, re-imaginings,
+reviews, etc.)
+• A page of Photoshopped manipulations of your subject
+• A page on animated gifs of your subject
+• Anything else you can think of based on the unique parameters of your topic
+Each page should have at least 6 examples of the medium/artifact that page is dedicated to (6 memes, 6 videos, 6 links to other sites, etc.). However, more is certainly encouraged and will lead to fuller pages.
+Each page should also have text that you write. The text write up for each page does not need to be
+very long, and (again) will likely be dependent on your topic.
+
+
+
+
+
